@@ -7,7 +7,7 @@
 </div>
 <div align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=pp+mori&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I+AM+SAHAJ;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a></div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> <br>
-<p> Welcome! I'm Sahaj, a developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others. </p>
+<p> Welcome! I'm Sahaj, a software developer in making from India, I'm passionate about development and am constantly improving my skills through learning and collaborating with others. </p>
 <br>
  <p> In this README, you'll find some information about me and my areas of expertise. I anticipate that after reading this, you'll know more about me and the skills I bring to the table as a developer. </p> <br>
 <p> Browse through my repositories and contributions at your leisure, and don't hesitate to reach out if you have any questions or are interested in collaborating on a project. </p>
@@ -54,7 +54,9 @@
 <br>
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/anuraj-shukla-0662a2231/" target="_blank">
+  <a href=www.linkedin.com/in/sahaj08
+
+
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/anurajshukla3112/" target="_blank">
